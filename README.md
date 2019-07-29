@@ -22,5 +22,5 @@
 	slow. If you want to test the network you can find the weights I generated for romanian number plates after 370k iterations here: https://drive.google.com/open?id=1odzOv0DuIUCzvFg6omTChMtIlt9NP2TG
 .	You have to add them in the ctask_weights directory. 
 	
-	As I was saying, this repository contains a database. In order to administrate it, there is another program for wich I will add a link here later.
+	As I was saying, this repository contains a database. In order to administrate it, there is another program which can be found here: https://github.com/badeamihaialexandru/LPR-Admin
 	
